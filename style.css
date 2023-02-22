@@ -5,6 +5,7 @@
 }
 .wt-overflow{
     height: calc(100vh - 32%);
+    color: black;
 }
 .bg-foot{
     background-color: rgb(32, 24, 24);
