@@ -1,0 +1,11 @@
+.body-bg{
+    background-color: rgb(80, 77, 77);
+    color: azure;
+
+}
+.wt-overflow{
+    height: calc(100vh - 32%);
+}
+.bg-foot{
+    background-color: rgb(32, 24, 24);
+}
