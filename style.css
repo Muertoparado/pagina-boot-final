@@ -3,10 +3,12 @@
     color: azure;
 
 }
-.wt-overflow{
-    height: calc(100vh - 32%);
-    color: black;
-}
 .bg-foot{
     background-color: rgb(32, 24, 24);
+}
+nav {
+    background-color: rgb(133, 130, 130);
+}
+a{
+    color: aliceblue;
 }
